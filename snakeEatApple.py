@@ -1,6 +1,6 @@
 from tkinter import *
 import random
-import tkinter as tk
+
 
 GAME_WIDTH = 1000
 GAME_HEIGHT = 700
